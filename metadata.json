@@ -1,0 +1,6 @@
+{
+  "name": "MediPredict",
+  "description": "A web application for exploring medical datasets and running disease prediction models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
